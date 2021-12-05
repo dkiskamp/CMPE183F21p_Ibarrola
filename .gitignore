@@ -42,6 +42,3 @@ typechain
 #Hardhat files
 cache
 artifacts
-
-#Custom ignores
-.secret
