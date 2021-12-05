@@ -2,7 +2,7 @@
 
 Before running ensure Node JS is installed on your system and that Metamask is installed on your browser. To deploy the application open two terminals in the base directory of the project.
 
-##### Terminal 1:
+#### Terminal 1:
 
 To install dependencies run:
 
@@ -14,7 +14,7 @@ Afterwards run:
 
 This will generate 20 accounts that have 10,000 ETH on a local test network.
 
-##### Terminal 2:
+#### Terminal 2:
 
 To deploy the contracts run:
 
@@ -30,7 +30,7 @@ If you did everything correctly the application should be deployed on a local se
 
 
 
-#### Adding Wallets to Metamask
+### Adding Wallets to Metamask
 
 First ensure test networks are shown by going to 
 
